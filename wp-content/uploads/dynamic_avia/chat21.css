@@ -2,6 +2,101 @@
 .html_header_transparency #top .avia-builder-el-0 .container, .html_header_transparency #top .avia-builder-el-0 .slideshow_caption{padding-top:88px;}
 h1, h2, h3, h4, h5, h6, #top .title_container .main-title, tr.pricing-row td, #top .portfolio-title, .callout .content-area, .avia-big-box .avia-innerbox, .av-special-font, .av-current-sort-title, .html_elegant-blog #top .minor-meta, #av-burger-menu-ul li{font-family:'Lato', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
 body{font-family:' helvetica neue', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+.tiledesk-faq-mod .single_toggle {
+	margin-bottom: 35px;
+}
+
+
+.tiledesk-faq-mod .toggle_content.invers-color {
+	border-width: 0px !important;
+}
+
+.tiledesk-faq-mod .toggler {
+	border-width: 0px !important;
+}
+
+.tiledesk-faq-mod p.toggler {
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	line-height: 1.2em;
+}
+
+.asterisk {
+	margin: 0;
+	padding: 30px 10px;
+	color: #888;
+	clear: both;
+	font-size: 14px;
+	text-align: center;
+}
+
+.price-agent {
+	text-align: center;
+	font-size: 13px;
+	color: #888;
+	padding-top: 15px;
+	margin: 0;
+	width: 100%;
+	display: block;
+	line-height: 20px;
+	min-height: 35px;
+}
+.pricing-button a {
+	font-size: 18px !important;
+	font-weight: bold !important;
+	margin-top: 22px !important;
+	margin-bottom: 22px !important;
+	color: #6ea4cf !important;
+	border-color: #6ea4cf !important;
+}
+
+.main_color .pricing-table li.avia-heading-row {
+	background-color: #f6f6f6;
+	color: #03363d;
+	font-weight: bold !important;
+	border-color: #f6f6f6;
+        font-size: 18px !important;
+}
+
+.currency-symbol {
+	color: black !important;
+}
+/* pricing table */
+.main_color .pricing-table li.avia-pricing-row {
+	background-color: white;
+	border-color: white;
+	color: #03363d;
+}
+
+.tiledesk-pricing li {
+	font-size: 16px;
+	border: 0;
+}
+/* pricing table */
+
+.home-git h2 {
+text-align: right;
+}
+
+.home-git a {
+	color: #6ea4cf !important;
+-webkit-transition: color 0.7s ease-out;
+  -moz-transition: color 0.7s ease-out;
+  -o-transition: color 0.7s ease-out;
+        transition: color 0.7s ease-out;
+
+}
+
+.home-git a:hover {
+	color: #235d8a !important;
+}
+.github-image .avia_image {
+	width: 200px;
+	
+	padding: 4px;
+}
+
 .arrow .avia_image {
 	width: 120px;
 	bottom: 220px;
@@ -86,6 +181,14 @@ color: #0277bd;
 }
 
 @media only screen and (max-width: 767px) {
+.tiledesk-faq h2 {
+	margin-bottom: 28px;
+}
+
+.tiledesk-faq-mod p.toggler {
+	font-size: 18px;
+}
+
 .head-tiledesk h1 {
 font-size: 42px !important;
 }
@@ -121,6 +224,10 @@ font-size: 16px;
 } 
 
 @media only screen and (max-width: 959px) {
+
+.home-git h2 {
+text-align: center;
+}
 
 .backoffice-section-home {
         background-image: url(dit.tiledesk.com/wp-content/uploads/2018/06/tiledesk-unified-backoffice-background-mobile.jpg) !important;
