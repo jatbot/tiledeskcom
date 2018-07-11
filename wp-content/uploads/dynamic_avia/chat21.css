@@ -2,6 +2,80 @@
 .html_header_transparency #top .avia-builder-el-0 .container, .html_header_transparency #top .avia-builder-el-0 .slideshow_caption{padding-top:88px;}
 h1, h2, h3, h4, h5, h6, #top .title_container .main-title, tr.pricing-row td, #top .portfolio-title, .callout .content-area, .avia-big-box .avia-innerbox, .av-special-font, .av-current-sort-title, .html_elegant-blog #top .minor-meta, #av-burger-menu-ul li{font-family:'Lato', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
 body{font-family:' helvetica neue', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+.features-section-list .special-heading-border {
+	padding-top:10px;
+}
+
+.features-section-list h1 {
+	font-size: 54px !important;
+	margin-bottom: 55px;
+}
+
+
+#menu-item-638 a {
+	border-right-style: solid;
+	border-right-width: 1px;
+	text-align: center;
+	min-width: 90px;
+}
+
+
+.section-features-easy h1 {
+font-size: 54px !important;
+margin-bottom: 30px;
+}
+.section-features-easy h2  {
+	line-height: 1.21053;
+	font-weight: 200;
+	letter-spacing: .012em;
+	font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+text-align: center; 
+color:white; 
+font-size: 1.4em;
+}
+
+
+#features-section-list h2 {
+	font-size: 25px !important;
+	line-height: 1.1em;
+	margin-bottom: 10px;
+}
+
+#features-section-list p {
+	font-size: 17px !important;
+}
+
+.features-button .avia-button.avia-color-dark {
+	border-color: #6ea4cf !important;
+	padding: 16px 50px 16px;
+	font-size: 16px;
+	font-weight: 800;
+	margin-top: 16px;
+}
+
+.features-button .avia_iconbox_title {
+color: #6ea4cf;
+letter-spacing: 1px;
+}
+
+
+.features-section h1 {
+	font-size: 58px !important;
+	line-height: 74px;
+	margin-bottom: 40px;
+	color: #03363d;
+	margin-top: 30px;
+}
+
+
+.features-section p {
+	font-size: 23px;
+	line-height: 36px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	max-width: 468px !important;
+}
+
 .make-yourself-available-image .avia_image {
 	max-width: none;
 	margin-right: -330px;
@@ -199,6 +273,25 @@ color: #0277bd;
 }
 
 @media only screen and (max-width: 767px) {
+
+.bot-sect-home h3 {
+text-align: center;
+}
+
+.features-section-list h1 {
+	font-size: 34px !important;
+	padding-bottom: 0px !important;
+}
+
+.section-features-easy h1 {
+	font-size: 34px !important;
+	margin-bottom: 24px;
+}
+
+.section-features-easy h2 {
+	font-size: 1.1em;
+}
+
 .tiledesk-faq h2 {
 	margin-bottom: 28px;
 }
@@ -241,8 +334,48 @@ font-size: 16px;
 }
 } 
 
-@media only screen and (max-width: 959px) {
+@media only screen and (max-width: 1278px) {
+  .features-section h1 {
+	font-size: 44px !important;
+	line-height: 58px;
+	
+}
 
+.features-section p {
+	font-size: 19px;
+	line-height: 30px;
+	
+}
+}
+
+
+@media only screen and (max-width: 989px) {
+
+.features-section h1 {
+	font-size: 34px !important;
+	line-height: 40px;
+	margin-bottom: 20px;
+	color: #03363d;
+	margin-top: 30px;
+	text-align: center !important;
+max-width: 100% !important;
+}
+
+.features-section p {
+	font-size: 18px;
+	line-height: 1.5;
+	letter-spacing: 0.7px;
+	text-align: center !important;
+max-width: 100% !important;
+}
+
+.features-button .avia-button.avia-color-dark {
+	margin-top: 0px;
+}
+
+}
+
+@media only screen and (max-width: 959px) {
 
 
 .home-git h2 {
@@ -256,11 +389,15 @@ text-align: center;
 	padding-left: 0% !important;
 	padding-right: 0% !important;
 }
+
 } 
+
+
 @media only screen and (max-width: 1322px){
 .arrow .avia_image {
 	display: none !important;
 }
+
 }
 
 
@@ -269,10 +406,28 @@ text-align: center;
   /* Add your Desktop Styles here */
   
   #menu-item-108 .avia-menu-text {
-	margin-left: 150px !important;
+	/* margin-left: 150px !important; */
 }
 
 }
+
+@media only screen and (min-width: 1060px) {
+  /* Add your Desktop Styles here */
+  
+.section-features-easy p {
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.section-features-customizable p {
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 70%;
+}
+
+}
+
 
 
 
