@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="dit.tiledesk.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>http://www.tiledesk.com/post-sitemap.xml</loc>
 		<lastmod>2018-07-24T16:59:52+02:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>http://www.tiledesk.com/page-sitemap.xml</loc>
 		<lastmod>2018-07-24T16:58:11+02:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>http://www.tiledesk.com/category-sitemap.xml</loc>
 		<lastmod>2018-07-24T16:59:52+02:00</lastmod>
 	</sitemap>
 </sitemapindex>
