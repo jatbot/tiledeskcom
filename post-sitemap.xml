@@ -4,12 +4,44 @@
 		<loc>/blog/</loc>
 	</url>
 	<url>
-		<loc>/hello-tiledesk/</loc>
-		<lastmod>2018-07-24T16:59:52+02:00</lastmod>
+		<loc>/it/benvenuto-tiledesk/</loc>
+		<lastmod>2018-07-24T17:12:26+02:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2018/07/tiledesk-blog.jpg</image:loc>
 			<image:title><![CDATA[tiledesk blog]]></image:title>
 			<image:caption><![CDATA[tiledesk blog]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tiledesk-iphone-android-it/</loc>
+		<lastmod>2018-07-25T10:17:49+02:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/07/3d-mockup-2.png</image:loc>
+			<image:title><![CDATA[3d-mockup-2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-appstore-2x.png</image:loc>
+			<image:caption><![CDATA[tiledesk ios appstore]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-googleplay-2x.png</image:loc>
+			<image:caption><![CDATA[tiledesk android googleplay]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tiledesk-iphone-android-en/</loc>
+		<lastmod>2018-07-25T10:18:17+02:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/07/3d-mockup-2.png</image:loc>
+			<image:title><![CDATA[3d-mockup-2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-appstore-2x.png</image:loc>
+			<image:caption><![CDATA[tiledesk ios appstore]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-googleplay-2x.png</image:loc>
+			<image:caption><![CDATA[tiledesk android googleplay]]></image:caption>
 		</image:image>
 	</url>
 </urlset>

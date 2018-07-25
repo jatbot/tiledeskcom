@@ -2,6 +2,17 @@
 .html_header_transparency #top .avia-builder-el-0 .container, .html_header_transparency #top .avia-builder-el-0 .slideshow_caption{padding-top:88px;}
 h1, h2, h3, h4, h5, h6, #top .title_container .main-title, tr.pricing-row td, #top .portfolio-title, .callout .content-area, .avia-big-box .avia-innerbox, .av-special-font, .av-current-sort-title, .html_elegant-blog #top .minor-meta, #av-burger-menu-ul li{font-family:'Lato', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
 body{font-family:' helvetica neue', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+#sect-mobile-widget h1 {
+font-size: 54px !important;
+}
+
+.learn-more-button .avia-button {
+	font-weight: bolder;
+	font-size: 16px;
+	color: #6ea4cf !important;
+	border-color: #6ea4cf !important;
+}
+
 .features-section-list .special-heading-border {
 	padding-top:10px;
 }
@@ -280,6 +291,14 @@ color: #0277bd;
 }
 
 @media only screen and (max-width: 767px) {
+
+#sect-mobile-sdk .flex_column.av_two_fifth.no_margin.flex_column_table_cell.av-equal-height-column.av-align-middle.av-zero-column-padding.avia-builder-el-3.el_after_av_two_fifth.avia-builder-el-last {
+	margin-bottom: 0px !important;
+}
+
+#sect-mobile-widget h1 {
+font-size: 34px !important;
+}
 
 .bot-sect-home h3 {
 text-align: center;
