@@ -1,74 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="dit.tiledesk.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-<<<<<<< HEAD
 		<loc>/</loc>
 		<lastmod>2018-07-24T18:38:43+02:00</lastmod>
-=======
-		<loc>http://www.tiledesk.com/blog/</loc>
-		<lastmod>2018-07-24T16:58:11+02:00</lastmod>
-	</url>
-	<url>
-		<loc>http://www.tiledesk.com/</loc>
-		<lastmod>2018-07-23T19:16:37+02:00</lastmod>
->>>>>>> 706b9e535d06837c7439c3f725dc27abc7f335da
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-<<<<<<< HEAD
 		<loc>/blog/</loc>
 		<lastmod>2018-07-24T16:58:11+02:00</lastmod>
 	</url>
 	<url>
 		<loc>/pricing/</loc>
-=======
-		<loc>http://www.tiledesk.com/pricing/</loc>
->>>>>>> 706b9e535d06837c7439c3f725dc27abc7f335da
 		<lastmod>2018-07-18T16:50:36+02:00</lastmod>
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://www.tiledesk.com/it/prezzi/</loc>
+		<loc>/it/prezzi/</loc>
 		<lastmod>2018-07-18T19:20:36+02:00</lastmod>
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://www.tiledesk.com/it/funzioni/</loc>
+		<loc>/it/funzioni/</loc>
 		<lastmod>2018-07-20T16:37:46+02:00</lastmod>
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/apple.png</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/apple.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/tiledesk-googleplay-2x.png</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-googleplay-2x.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://www.tiledesk.com/it/</loc>
+		<loc>/it/</loc>
 		<lastmod>2018-07-23T19:15:31+02:00</lastmod>
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://www.tiledesk.com/features/</loc>
+		<loc>/features/</loc>
 		<lastmod>2018-07-24T16:49:26+02:00</lastmod>
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/apple.png</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/apple.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/tiledesk-googleplay-2x.png</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-googleplay-2x.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
+			<image:loc>/wp-content/uploads/2018/06/tiledesk-logo-cto-sm-wh.svg</image:loc>
 		</image:image>
 	</url>
 	<url>

@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="dit.tiledesk.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.tiledesk.com/blog/</loc>
+		<loc>/blog/</loc>
 	</url>
 	<url>
-<<<<<<< HEAD
 		<loc>/it/benvenuto-tiledesk/</loc>
 		<lastmod>2018-07-24T17:12:26+02:00</lastmod>
-=======
-		<loc>http://www.tiledesk.com/hello-tiledesk/</loc>
-		<lastmod>2018-07-24T16:59:52+02:00</lastmod>
->>>>>>> 706b9e535d06837c7439c3f725dc27abc7f335da
 		<image:image>
-			<image:loc>http://www.tiledesk.com/wp-content/uploads/2018/07/tiledesk-blog.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2018/07/tiledesk-blog.jpg</image:loc>
 			<image:title><![CDATA[tiledesk blog]]></image:title>
 			<image:caption><![CDATA[tiledesk blog]]></image:caption>
 		</image:image>
